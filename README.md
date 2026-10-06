@@ -6,3 +6,6 @@
 
 ## Descripción
 Repositorio creado para la evaluación T2, con el fin de practicar el control de versiones con Git y GitHub sobre un proyecto Java/Maven.
+
+## Evidencia T2
+Evaluación T2 - Control de versiones con Git y GitHub - Gabriela Huaringa Garcia.
