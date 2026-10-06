@@ -12,3 +12,6 @@ Evaluación T2 - Control de versiones con Git y GitHub - Gabriela Huaringa Garci
 
 ## Control de cambios
 Se realizaron modificaciones simultaneas en README.md, pom.xml y observaciones.txt para practicar el manejo del Working Directory y del Staging Area.
+
+## Gestion de ramas
+Se utilizo la rama feature-huaringa para desarrollar la clase ControlVersion_Huaringa.java, que muestra en consola un mensaje de identificacion de la estudiante. Luego se fusiono con la rama principal.
