@@ -1,0 +1,1 @@
+Observacion: la evaluacion T2 permitio practicar add, restore, diff, commit y manejo de ramas en Git.

@@ -9,3 +9,6 @@ Repositorio creado para la evaluación T2, con el fin de practicar el control de
 
 ## Evidencia T2
 Evaluación T2 - Control de versiones con Git y GitHub - Gabriela Huaringa Garcia.
+
+## Control de cambios
+Se realizaron modificaciones simultaneas en README.md, pom.xml y observaciones.txt para practicar el manejo del Working Directory y del Staging Area.
